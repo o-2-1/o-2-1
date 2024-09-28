@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunko_21_website=self.webpackChunko_21_website||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/o21-website/blog","blogTitle":"Blog","authorsListPath":"/o21-website/blog/authors"}')}}]);
