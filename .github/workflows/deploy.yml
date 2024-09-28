@@ -1,5 +1,10 @@
 name: Deploy Docusaurus
 
+permissions:
+  pull-requests: write
+  issues: write
+  repository-projects: write
+
 on:
   push:
     branches:
