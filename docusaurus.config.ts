@@ -31,7 +31,7 @@ const config: Config = {
   url: 'https://o-2-1.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/o-2-1/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
