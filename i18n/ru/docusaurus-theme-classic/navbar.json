@@ -1,0 +1,26 @@
+{
+  "title": {
+    "message": "Организация 21",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "My Site Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.О нас": {
+    "message": "О нас",
+    "description": "Navbar item with label О нас"
+  },
+  "item.label.Новости": {
+    "message": "Новости",
+    "description": "Navbar item with label Новости"
+  },
+  "item.label.Статьи": {
+    "message": "Статьи",
+    "description": "Navbar item with label Статьи"
+  },
+  "item.label.Контакты": {
+    "message": "Контакты",
+    "description": "Navbar item with label Контакты"
+  }
+}

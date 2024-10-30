@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Материалы О21": {
+    "message": "Материалы О21",
+    "description": "The label for category Материалы О21 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Переводы и перепечатки": {
+    "message": "Переводы и перепечатки",
+    "description": "The label for category Переводы и перепечатки in sidebar tutorialSidebar"
+  }
+}
