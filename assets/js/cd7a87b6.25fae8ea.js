@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunko_21_website=self.webpackChunko_21_website||[]).push([[957],{745:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/o-2-1/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

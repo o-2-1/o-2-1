@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://o-2-1.github.io/news</id>
+    <title>Организация 21 Blog</title>
+    <updated>2024-10-31T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://o-2-1.github.io/news"/>
+    <subtitle>Организация 21 Blog</subtitle>
+    <icon>https://o-2-1.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Запущен сайт]]></title>
+        <id>https://o-2-1.github.io/news/start</id>
+        <link href="https://o-2-1.github.io/news/start"/>
+        <updated>2024-10-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Запущен сайт.]]></summary>
+        <content type="html"><![CDATA[<p>Запущен сайт.</p>
+<p>Опубликованы наши статьи:</p>
+<ol>
+<li><a href="https://o-2-1.github.io/docs/our/employment">Полянский Андрей. Структура занятости, особенности рынка труда и трудовых отношений в современной России</a></li>
+<li><a href="https://o-2-1.github.io/docs/our/pnt-2.0">Сетунев Олег. Партия нового типа 2.0. Редакция 2.</a></li>
+<li><a href="https://o-2-1.github.io/docs/our/unworkable-way">Сетунев Олег. Нерабочий вариант: Нужно ли коммунистам работать с рабочим движением? Редакция 2.</a></li>
+<li><a href="https://o-2-1.github.io/docs/our/working-method">Сетунев Олег. Рабочий метод: как коммунистам работать в рабочем движении. Редакция 2.</a></li>
+</ol>
+<p>Опубликованы материалы:</p>
+<ol>
+<li><a href="https://o-2-1.github.io/docs/other/comintern">Организационное строительство коммунистических партий, методы и содержание их работы. Тезисы. Резолюция III Конгресса Коммунистического Интернационала</a></li>
+<li><a href="https://o-2-1.github.io/docs/other/org_question">Резолюции Профинтерна по организационному вопросу</a></li>
+<li><a href="https://o-2-1.github.io/docs/other/strike_tactics">Резолюция Профинтерна о стачечной тактике</a></li>
+<li><a href="https://o-2-1.github.io/docs/other/union_tactics">Резолюции Профинтерна о тактике профсоюзов</a></li>
+</ol>]]></content>
+        <author>
+            <name>Борис Асеев</name>
+        </author>
+    </entry>
+</feed>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Организация 21 Blog</title>
+        <link>https://o-2-1.github.io/news</link>
+        <description>Организация 21 Blog</description>
+        <lastBuildDate>Thu, 31 Oct 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>ru</language>
+        <item>
+            <title><![CDATA[Запущен сайт]]></title>
+            <link>https://o-2-1.github.io/news/start</link>
+            <guid>https://o-2-1.github.io/news/start</guid>
+            <pubDate>Thu, 31 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Запущен сайт.]]></description>
+            <content:encoded><![CDATA[<p>Запущен сайт.</p>
+<p>Опубликованы наши статьи:</p>
+<ol>
+<li><a href="https://o-2-1.github.io/docs/our/employment">Полянский Андрей. Структура занятости, особенности рынка труда и трудовых отношений в современной России</a></li>
+<li><a href="https://o-2-1.github.io/docs/our/pnt-2.0">Сетунев Олег. Партия нового типа 2.0. Редакция 2.</a></li>
+<li><a href="https://o-2-1.github.io/docs/our/unworkable-way">Сетунев Олег. Нерабочий вариант: Нужно ли коммунистам работать с рабочим движением? Редакция 2.</a></li>
+<li><a href="https://o-2-1.github.io/docs/our/working-method">Сетунев Олег. Рабочий метод: как коммунистам работать в рабочем движении. Редакция 2.</a></li>
+</ol>
+<p>Опубликованы материалы:</p>
+<ol>
+<li><a href="https://o-2-1.github.io/docs/other/comintern">Организационное строительство коммунистических партий, методы и содержание их работы. Тезисы. Резолюция III Конгресса Коммунистического Интернационала</a></li>
+<li><a href="https://o-2-1.github.io/docs/other/org_question">Резолюции Профинтерна по организационному вопросу</a></li>
+<li><a href="https://o-2-1.github.io/docs/other/strike_tactics">Резолюция Профинтерна о стачечной тактике</a></li>
+<li><a href="https://o-2-1.github.io/docs/other/union_tactics">Резолюции Профинтерна о тактике профсоюзов</a></li>
+</ol>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
