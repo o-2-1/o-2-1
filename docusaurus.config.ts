@@ -157,7 +157,12 @@ const config: Config = {
           language: ["ru"],
       }),
     ],
-  ],    
+  ],
+  future: {
+    experimental_faster: {
+      lightningCssMinimizer: true,
+    },
+  },
 };
 
 export default config;
