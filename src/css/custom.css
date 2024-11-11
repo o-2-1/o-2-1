@@ -70,6 +70,18 @@ div[class^="announcementBarContent"] {
   }
 }
 
+.footnote-tooltip {
+position: absolute;
+background-color: #f9f9f9;
+border: 1px solid #ddd;
+padding: 10px;
+border-radius: 4px;
+font-size: 14px;
+max-width: 300px;
+z-index: 1000;
+display: none;
+}
+
 .tooltip {
     position: relative;
     display: inline-block;
