@@ -88,30 +88,3 @@ display: none;
     background-color: var(--ifm-color-emphasis-200);
   }
 }
-
-.tooltip {
-    position: relative;
-    display: inline-block;
-}
-
-.tooltip .tooltiptext {
-    visibility: hidden;
-    width: 200px;
-    background-color: black;
-    color: #fff;
-    text-align: center;
-    border-radius: 6px;
-    padding: 5px 10px;
-    position: absolute;
-    z-index: 1;
-    bottom: 100%; /* Показывать подсказку сверху */
-    left: 50%;
-    margin-left: -100px; /* Центрировать подсказку относительно ссылки */
-    opacity: 0;
-    transition: opacity 0.3s;
-}
-
-.tooltip:hover .tooltiptext {
-    visibility: visible;
-    opacity: 1;
-}
