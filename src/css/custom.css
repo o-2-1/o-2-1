@@ -88,3 +88,9 @@ display: none;
     background-color: var(--ifm-color-emphasis-200);
   }
 }
+
+.text--truncate {
+    white-space: normal; /* Разрешает перенос текста */
+    word-wrap: break-word; /* Обеспечивает корректный перенос слов */
+    overflow-wrap: break-word; /* Альтернативное свойство для переноса слов */
+}
