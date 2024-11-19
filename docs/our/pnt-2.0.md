@@ -3,6 +3,7 @@ title: Партия нового типа 2.0
 authors: [Сетунев Олег]
 description: Сетунев Олег
 tags: [коммунистическая партия, коммунизм, левое движение]
+image: pnt-2.0/00.webp
 sidebar_position: 1
 last_update:
   date: 2024-10-19

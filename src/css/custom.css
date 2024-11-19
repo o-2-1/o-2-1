@@ -94,3 +94,15 @@ display: none;
     word-wrap: break-word; /* Обеспечивает корректный перенос слов */
     overflow-wrap: break-word; /* Альтернативное свойство для переноса слов */
 }
+
+.revision-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.revision-table th,
+.revision-table td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
