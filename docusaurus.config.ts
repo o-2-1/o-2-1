@@ -106,10 +106,21 @@ const config: Config = {
 		remarkPlugins: [[remarkTypograf, { typograf: myTypograf, builtIn: false }]],
 	    },
 	],
+	require.resolve("docusaurus-plugin-image-zoom"),
     ],
   themeConfig: {
     // Replace with your project's social card
-      metadata: [{name: 'keywords', content: 'коммунизм, коммунистическая партия, рабочее движение, О21, Организация 21'}],
+    metadata: [{name: 'keywords', content: 'коммунизм, коммунистическая партия, рабочее движение, О21, Организация 21'}],
+      zoom: {
+        selector: 'p > img',
+        background: {
+          light: '#ffffff',
+          dark: '#1b1b1d'
+        },
+        config: {
+          // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
+        }
+      },    
     navbar: {
       title: 'Организация 21',
       logo: {
