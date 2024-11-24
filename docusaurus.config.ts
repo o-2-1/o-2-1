@@ -119,6 +119,7 @@ const config: Config = {
         },
         config: {
           // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
+
         }
       },    
     navbar: {
