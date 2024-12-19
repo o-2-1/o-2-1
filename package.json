@@ -27,9 +27,11 @@
     "prism-react-renderer": "^2.3.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "rehype-katex": "^7.0.1",
     "rehype-stringify": "^9.0.3",
     "remark": "^14.0.3",
     "remark-details-simple": "^1.0.1",
+    "remark-math": "^6.0.0",
     "typograf": "^7.4.1"
   },
   "devDependencies": {
