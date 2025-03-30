@@ -4,10 +4,24 @@
         <title>Организация 21 Blog</title>
         <link>https://o21.org/news</link>
         <description>Организация 21 Blog</description>
-        <lastBuildDate>Thu, 31 Oct 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Mar 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ru</language>
+        <item>
+            <title><![CDATA[Обновления сайта]]></title>
+            <link>https://o21.org/news/2025/03/30/</link>
+            <guid>https://o21.org/news/2025/03/30/</guid>
+            <pubDate>Sun, 30 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[1. В разделе "О нас" опубликованы наши "Стратегические приоритеты".]]></description>
+            <content:encoded><![CDATA[<ol>
+<li>В разделе "О нас" опубликованы наши <a href="https://o21.org/faq/strategy">"Стратегические приоритеты"</a>.</li>
+<li>Опубликован перевод статьи <a href="https://o21.org/docs/other/jasic">Чжан Юэрань. Ленинисты на китайской фабрике: размышления о стратегии организации рабочих на заводе Jasic</a>.</li>
+<li>Цитаты из статьи Чжан Юэраня приведены в соответствие с переводом в статье <a href="https://o21.org/docs/our/working-method">Сетунев Олег. Рабочий метод: как коммунистам работать в рабочем движении</a>.</li>
+<li>Добавлена pdf-версия статьи <a href="https://o21.org/docs/our/employment">Полянский Андрей. Структура занятости, особенности рынка труда и трудовых отношений в современной России</a>.</li>
+<li>Опубликована уточнённая редакция 2.1 статьи <a href="https://o21.org/docs/our/pnt-2.0">Сетунев Олег. Партия нового типа 2.0</a>.</li>
+</ol>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Запущен сайт]]></title>
             <link>https://o21.org/news/start</link>
