@@ -106,3 +106,34 @@ display: none;
   text-align: left;
   border-bottom: 1px solid #ddd;
 }
+
+.button--download {
+  background-color: var(--ifm-color-emphasis-200);
+  color: var(--ifm-color-emphasis-inverse);
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+  display: flex;
+  align-items: center; /* Выравнивание иконки и текста */
+}
+
+.button--download:hover {
+  background-color: var(--ifm-color-emphasis-300);
+}
+
+/* Темная тема */
+@media (prefers-color-scheme: dark) {
+  .button--download {
+      background-color: var(--ifm-color-emphasis-200);
+      color: var(--ifm-color-emphasis-inverse) !important;
+
+  }
+}
+
+.pdf-icon {
+  font-size: 20px; /* Увеличиваем размер иконки */
+  margin-right: 8px; /* Отступ между иконкой и текстом */
+}

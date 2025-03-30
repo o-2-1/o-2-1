@@ -1,6 +1,6 @@
 ---
 title: Чем мы занимались и занимаемся?
-sidebar_position: 6
+sidebar_position: 7
 ---
 
 Организация-21:

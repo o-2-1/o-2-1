@@ -179,7 +179,7 @@ const config: Config = {
 	  indexPages: true,
 	  highlightSearchTermsOnTargetPage: true,
 	  searchResultContextMaxLength: 100,
-          language: ["ru"],
+          language: ["ru", "en"],
       }),
     ],
   ],
