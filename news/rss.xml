@@ -4,10 +4,21 @@
         <title>Организация 21 Blog</title>
         <link>https://o21.org/news</link>
         <description>Организация 21 Blog</description>
-        <lastBuildDate>Sun, 30 Mar 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 May 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ru</language>
+        <item>
+            <title><![CDATA[Новая статья]]></title>
+            <link>https://o21.org/news/2025/05/13/</link>
+            <guid>https://o21.org/news/2025/05/13/</guid>
+            <pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[1. Опубликована статья Сетунев Олег. О коммунистической экономике.]]></description>
+            <content:encoded><![CDATA[<ol>
+<li>Опубликована статья <a href="https://o21.org/docs/our/communism">Сетунев Олег. О коммунистической экономике</a>.</li>
+<li>Добавлена <a href="https://o21.org/subscribe">страница о том, как подписаться</a> на новости сайта.</li>
+</ol>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Обновления сайта]]></title>
             <link>https://o21.org/news/2025/03/30/</link>

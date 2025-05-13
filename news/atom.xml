@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://o21.org/news</id>
     <title>Организация 21 Blog</title>
-    <updated>2025-03-30T00:00:00.000Z</updated>
+    <updated>2025-05-13T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://o21.org/news"/>
     <subtitle>Организация 21 Blog</subtitle>
     <icon>https://o21.org/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Новая статья]]></title>
+        <id>https://o21.org/news/2025/05/13/</id>
+        <link href="https://o21.org/news/2025/05/13/"/>
+        <updated>2025-05-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. Опубликована статья Сетунев Олег. О коммунистической экономике.]]></summary>
+        <content type="html"><![CDATA[<ol>
+<li>Опубликована статья <a href="https://o21.org/docs/our/communism">Сетунев Олег. О коммунистической экономике</a>.</li>
+<li>Добавлена <a href="https://o21.org/subscribe">страница о том, как подписаться</a> на новости сайта.</li>
+</ol>]]></content>
+        <author>
+            <name>Борис Асеев</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Обновления сайта]]></title>
         <id>https://o21.org/news/2025/03/30/</id>
