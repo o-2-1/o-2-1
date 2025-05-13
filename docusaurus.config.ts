@@ -155,6 +155,7 @@ const config: Config = {
             label: 'Статьи',
               docsPluginId: 'docs',
           },
+          {to: 'subscribe', label: 'Подписаться', position: 'right'},
           {to: 'contacts', label: 'Контакты', position: 'right'},
 	
       ],
