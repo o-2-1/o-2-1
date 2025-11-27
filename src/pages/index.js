@@ -26,16 +26,38 @@ function HomepageHeader() {
   );
 }
 
-export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
+// export default function Home() {
+//   const {siteConfig} = useDocusaurusContext();
+//   return (
+//     <Layout
+//       title={`${siteConfig.title}`}
+// 	description="Официальный сайт Организации-21 (О21)">
+//       <HomepageHeader />
+//       <main>
+//          <HomepageFeatures />
+//       </main>
+//     </Layout>
+//   );
+// }
+
+
+export default function MaintenancePage() {
   return (
-    <Layout
-      title={`${siteConfig.title}`}
-	description="Официальный сайт Организации-21 (О21)">
-      <HomepageHeader />
-      <main>
-         <HomepageFeatures />
-      </main>
-    </Layout>
+    <div style={{
+      display: 'flex',
+      flexDirection: 'column',
+      justifyContent: 'center',
+      alignItems: 'center',
+      height: '70vh',
+      textAlign: 'center',
+      padding: '2rem',
+    }}>
+      <h1 style={{fontSize: '3rem', marginBottom: '1rem'}}>
+        Temporarily out of service
+      </h1>
+      <p style={{fontSize: '1.2rem', color: 'var(--ifm-color-emphasis-600)'}}>
+        We'll be back!
+      </p>
+    </div>
   );
 }
