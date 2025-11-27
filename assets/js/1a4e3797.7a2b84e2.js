@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmy_website=globalThis.webpackChunkmy_website||[]).push([[2138],{4081:(s,a,e)=>{e.d(a,{BH:()=>h,CU:()=>c.a,Hg:()=>t,IH:()=>r,dz:()=>d,rG:()=>u,sx:()=>l});var n=e(8291),i=e.n(n),b=e(689),c=e.n(b);e(6121)(i()),e(2550)(i()),e(6106)(i());const h=["ru","en"],l=!1,r="search-index{dir}.json?_=9f0aaac6",u=100,t=null,d=!1}}]);

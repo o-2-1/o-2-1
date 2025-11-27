@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0">
     <channel>
         <title>Организация 21 Blog</title>
         <link>https://o21.org/news</link>
@@ -14,10 +14,6 @@
             <guid>https://o21.org/news/2025/05/13/</guid>
             <pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[1. Опубликована статья Сетунев Олег. О коммунистической экономике.]]></description>
-            <content:encoded><![CDATA[<ol>
-<li>Опубликована статья <a href="https://o21.org/docs/our/communism">Сетунев Олег. О коммунистической экономике</a>.</li>
-<li>Добавлена <a href="https://o21.org/subscribe">страница о том, как подписаться</a> на новости сайта.</li>
-</ol>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Обновления сайта]]></title>
@@ -25,13 +21,6 @@
             <guid>https://o21.org/news/2025/03/30/</guid>
             <pubDate>Sun, 30 Mar 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[1. В разделе "О нас" опубликованы наши "Стратегические приоритеты".]]></description>
-            <content:encoded><![CDATA[<ol>
-<li>В разделе "О нас" опубликованы наши <a href="https://o21.org/faq/strategy">"Стратегические приоритеты"</a>.</li>
-<li>Опубликован перевод статьи <a href="https://o21.org/docs/other/jasic">Чжан Юэрань. Ленинисты на китайской фабрике: размышления о стратегии организации рабочих на заводе Jasic</a>.</li>
-<li>Цитаты из статьи Чжан Юэраня приведены в соответствие с переводом в статье <a href="https://o21.org/docs/our/working-method">Сетунев Олег. Рабочий метод: как коммунистам работать в рабочем движении</a>.</li>
-<li>Добавлена pdf-версия статьи <a href="https://o21.org/docs/our/employment">Полянский Андрей. Структура занятости, особенности рынка труда и трудовых отношений в современной России</a>.</li>
-<li>Опубликована уточнённая редакция 2.1 статьи <a href="https://o21.org/docs/our/pnt-2.0">Сетунев Олег. Партия нового типа 2.0</a>.</li>
-</ol>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Запущен сайт]]></title>
@@ -39,21 +28,6 @@
             <guid>https://o21.org/news/start</guid>
             <pubDate>Thu, 31 Oct 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Запущен сайт.]]></description>
-            <content:encoded><![CDATA[<p>Запущен сайт.</p>
-<p>Опубликованы наши статьи:</p>
-<ol>
-<li><a href="https://o21.org/docs/our/employment">Полянский Андрей. Структура занятости, особенности рынка труда и трудовых отношений в современной России</a></li>
-<li><a href="https://o21.org/docs/our/pnt-2.0">Сетунев Олег. Партия нового типа 2.0. Редакция 2.</a></li>
-<li><a href="https://o21.org/docs/our/unworkable-way">Сетунев Олег. Нерабочий вариант: Нужно ли коммунистам работать с рабочим движением? Редакция 2.</a></li>
-<li><a href="https://o21.org/docs/our/working-method">Сетунев Олег. Рабочий метод: как коммунистам работать в рабочем движении. Редакция 2.</a></li>
-</ol>
-<p>Опубликованы материалы:</p>
-<ol>
-<li><a href="https://o21.org/docs/other/comintern">Организационное строительство коммунистических партий, методы и содержание их работы. Тезисы. Резолюция III Конгресса Коммунистического Интернационала</a></li>
-<li><a href="https://o21.org/docs/other/org_question">Резолюции Профинтерна по организационному вопросу</a></li>
-<li><a href="https://o21.org/docs/other/strike_tactics">Резолюция Профинтерна о стачечной тактике</a></li>
-<li><a href="https://o21.org/docs/other/union_tactics">Резолюции Профинтерна о тактике профсоюзов</a></li>
-</ol>]]></content:encoded>
         </item>
     </channel>
 </rss>
