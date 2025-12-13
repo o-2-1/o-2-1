@@ -1,19 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Организация 21 Blog</title>
         <link>https://o21.org/news</link>
         <description>Организация 21 Blog</description>
-        <lastBuildDate>Tue, 13 May 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Dec 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ru</language>
+        <item>
+            <title><![CDATA[Временная недоступность сайта]]></title>
+            <link>https://o21.org/news/2025/12/13/</link>
+            <guid>https://o21.org/news/2025/12/13/</guid>
+            <pubDate>Sat, 13 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[С 22 ноября по 13 декабря 2025 г. сайт был недоступен. Мы столкнулись с тем, что регистратор домена просто на основании своего отношения к содержанию сайта без предупреждения заблокировал только что оплаченный домен, а затем требовал удалить с него материалы. Разблокировка и перезд домена к другом регистратору потребовали времени. Но работа продолжалась несмотря на это.]]></description>
+            <content:encoded><![CDATA[<p>С 22 ноября по 13 декабря 2025 г. сайт был недоступен. Мы столкнулись с тем, что регистратор домена просто на основании своего отношения к содержанию сайта без предупреждения заблокировал только что оплаченный домен, а затем требовал удалить с него материалы. Разблокировка и перезд домена к другом регистратору потребовали времени. Но работа продолжалась несмотря на это.</p>
+<p>На случай любых проблем с доступностью сайта - всё его содержимое <a href="https://web.archive.org/web/*/https://o21.org/" target="_blank" rel="noopener noreferrer" class="">доступно в архиве Интернета</a>.</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Новая статья]]></title>
             <link>https://o21.org/news/2025/05/13/</link>
             <guid>https://o21.org/news/2025/05/13/</guid>
             <pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[1. Опубликована статья Сетунев Олег. О коммунистической экономике.]]></description>
+            <content:encoded><![CDATA[<ol>
+<li class="">Опубликована статья <a class="" href="https://o21.org/docs/our/communism">Сетунев Олег. О коммунистической экономике</a>.</li>
+<li class="">Добавлена <a class="" href="https://o21.org/subscribe">страница о том, как подписаться</a> на новости сайта.</li>
+</ol>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Обновления сайта]]></title>
@@ -21,6 +34,13 @@
             <guid>https://o21.org/news/2025/03/30/</guid>
             <pubDate>Sun, 30 Mar 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[1. В разделе "О нас" опубликованы наши "Стратегические приоритеты".]]></description>
+            <content:encoded><![CDATA[<ol>
+<li class="">В разделе "О нас" опубликованы наши <a class="" href="https://o21.org/faq/strategy">"Стратегические приоритеты"</a>.</li>
+<li class="">Опубликован перевод статьи <a class="" href="https://o21.org/docs/other/jasic">Чжан Юэрань. Ленинисты на китайской фабрике: размышления о стратегии организации рабочих на заводе Jasic</a>.</li>
+<li class="">Цитаты из статьи Чжан Юэраня приведены в соответствие с переводом в статье <a class="" href="https://o21.org/docs/our/working-method">Сетунев Олег. Рабочий метод: как коммунистам работать в рабочем движении</a>.</li>
+<li class="">Добавлена pdf-версия статьи <a class="" href="https://o21.org/docs/our/employment">Полянский Андрей. Структура занятости, особенности рынка труда и трудовых отношений в современной России</a>.</li>
+<li class="">Опубликована уточнённая редакция 2.1 статьи <a class="" href="https://o21.org/docs/our/pnt-2.0">Сетунев Олег. Партия нового типа 2.0</a>.</li>
+</ol>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Запущен сайт]]></title>
@@ -28,6 +48,21 @@
             <guid>https://o21.org/news/start</guid>
             <pubDate>Thu, 31 Oct 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Запущен сайт.]]></description>
+            <content:encoded><![CDATA[<p>Запущен сайт.</p>
+<p>Опубликованы наши статьи:</p>
+<ol>
+<li class=""><a class="" href="https://o21.org/docs/our/employment">Полянский Андрей. Структура занятости, особенности рынка труда и трудовых отношений в современной России</a></li>
+<li class=""><a class="" href="https://o21.org/docs/our/pnt-2.0">Сетунев Олег. Партия нового типа 2.0. Редакция 2.</a></li>
+<li class=""><a class="" href="https://o21.org/docs/our/unworkable-way">Сетунев Олег. Нерабочий вариант: Нужно ли коммунистам работать с рабочим движением? Редакция 2.</a></li>
+<li class=""><a class="" href="https://o21.org/docs/our/working-method">Сетунев Олег. Рабочий метод: как коммунистам работать в рабочем движении. Редакция 2.</a></li>
+</ol>
+<p>Опубликованы материалы:</p>
+<ol>
+<li class=""><a class="" href="https://o21.org/docs/other/comintern">Организационное строительство коммунистических партий, методы и содержание их работы. Тезисы. Резолюция III Конгресса Коммунистического Интернационала</a></li>
+<li class=""><a class="" href="https://o21.org/docs/other/org_question">Резолюции Профинтерна по организационному вопросу</a></li>
+<li class=""><a class="" href="https://o21.org/docs/other/strike_tactics">Резолюция Профинтерна о стачечной тактике</a></li>
+<li class=""><a class="" href="https://o21.org/docs/other/union_tactics">Резолюции Профинтерна о тактике профсоюзов</a></li>
+</ol>]]></content:encoded>
         </item>
     </channel>
 </rss>
