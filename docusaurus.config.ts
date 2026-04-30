@@ -185,7 +185,7 @@ const config: Config = {
     ],
   ],
   future: {
-    experimental_faster: {
+    faster: {
       lightningCssMinimizer: true,
     },
   },
