@@ -4,10 +4,18 @@
         <title>Организация 21 Blog</title>
         <link>https://o21.org/news</link>
         <description>Организация 21 Blog</description>
-        <lastBuildDate>Sun, 20 Sep 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Oct 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ru</language>
+        <item>
+            <title><![CDATA[Вторая часть «Особого пути зависимости»]]></title>
+            <link>https://o21.org/news/2026/10/11/</link>
+            <guid>https://o21.org/news/2026/10/11/</guid>
+            <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Завершаем публикацию исследования российской экономики. На сайт выложена вторая часть работы Особый путь зависимости: экономическое развитие современной России Андрея Полянского.]]></description>
+            <content:encoded><![CDATA[<p>Завершаем публикацию исследования российской экономики. На сайт выложена вторая часть работы <a class="" href="https://o21.org/docs/our/special-path-of-dependence#ch-5">Особый путь зависимости: экономическое развитие современной России</a> Андрея Полянского.</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Новая статья]]></title>
             <link>https://o21.org/news/2026/09/20/</link>
