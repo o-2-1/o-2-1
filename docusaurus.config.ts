@@ -114,7 +114,7 @@ const config: Config = {
 		showLastUpdateAuthor: false,
 		showLastUpdateTime: false,
 		sidebarPath: require.resolve('./sidebars.js'),
-	    	remarkPlugins: [remarkMath, [remarkTypograf, { typograf: myTypograf, builtIn: false }]],
+	    	remarkPlugins: [remarkMath, [remarkTypograf, { typograf: myTypograf, builtIn: false, keywords: ['Диссертация - 11 - 197 PDF.pdf'] }]],
 	    	rehypePlugins: [rehypeKatex],
 	    },
 	],
